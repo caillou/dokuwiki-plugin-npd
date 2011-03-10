@@ -1,0 +1,3 @@
+Veuillez entrer le nom du répertoire.\\
+Le répertoire **NE** sera **PAS** créé tant que\\
+la page n'est pas **SAUVEGARDEE**.
