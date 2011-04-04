@@ -12,7 +12,7 @@ class helper_plugin_npd extends DokuWiki_Plugin
 
     function getInfo()
     {
-        return confToHash(dirname(__FILE__).'/info.txt');
+        return confToHash(dirname(__FILE__).'/plugin.info.txt');
     }
 
     function getMethods()
@@ -98,4 +98,4 @@ class helper_plugin_npd extends DokuWiki_Plugin
         }
     }
 }
-?>
+

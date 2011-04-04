@@ -18,4 +18,4 @@ $lang['dlg_new_folder'] = 'Entrer le nom du nouveau répertoire:';
 /* misc */
 $lang['msc_page_title'] = 'Titre de la page';
 
-//Setup VIM: ex: et ts=4 enc=utf-8 :
+//Setup VIM: ex: et ts=4 :

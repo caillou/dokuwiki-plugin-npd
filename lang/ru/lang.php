@@ -19,4 +19,4 @@ $lang['dlg_new_folder'] = 'Введите имя нового пространс
 /* misc */
 $lang['msc_page_title'] = 'Имя страницы';
  
-//Setup VIM: ex: et ts=4 enc=utf-8 :
+//Setup VIM: ex: et ts=4 :

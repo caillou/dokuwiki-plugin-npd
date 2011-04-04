@@ -13,10 +13,10 @@ $lang['btn_new_folder']  = 'New Folder';
 $lang['btn_ok'] = 'OK';
 
 /* dialogs */
-$lang['dlg_confirm_page_name'] = 'Are you shure you want to \ncreate a page called:\n';
+$lang['dlg_confirm_page_name'] = 'Are you sure you want to \ncreate a page called:\n';
 $lang['dlg_new_folder'] = 'Enter new folder name:';
 
 /* misc */
 $lang['msc_page_title'] = 'Page Title';
 
-//Setup VIM: ex: et ts=4 enc=utf-8 :
+//Setup VIM: ex: et ts=4 :

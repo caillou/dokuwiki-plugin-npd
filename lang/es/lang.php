@@ -19,4 +19,4 @@ $lang['dlg_new_folder'] = 'Introduzca el nombre de la carpeta:';
 /* misc */
 $lang['msc_page_title'] = 'Título de la página:';
  
-//Setup VIM: ex: et ts=4 enc=utf-8 :
+//Setup VIM: ex: et ts=4 :

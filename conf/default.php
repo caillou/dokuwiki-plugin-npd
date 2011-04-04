@@ -5,4 +5,4 @@
 
 $conf['link_type']  = 'button';
 
-//Setup VIM: ex: et ts=2 enc=utf-8 :
+//Setup VIM: ex: et ts=2 :

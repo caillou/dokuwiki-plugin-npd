@@ -13,7 +13,7 @@ class action_plugin_npd_meta extends DokuWiki_Action_Plugin {
 
     function getInfo()
     {
-        return confToHash(dirname(__FILE__).'../info.txt');
+        return confToHash(dirname(__FILE__).'../plugin.info.txt');
     }
 
     function register(&$controller)
