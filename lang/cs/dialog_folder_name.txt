@@ -1,0 +1,3 @@
+Prosím zadejte Název složky.\\
+Pamatujte, že složka **NEBUDE** vytvořena, dokud nebude\\
+v ní vytvářená stránka **ULOŽENA**.

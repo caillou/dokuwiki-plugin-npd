@@ -1,0 +1,3 @@
+Prosim, vnesite ime mape.\\
+Opomba: mapa **NE** bo ustvarjena, dokler ni\\
+stran iz le-te **SHRANJENA**.
