@@ -1,0 +1,11 @@
+# New Page Dialog Plugin for DokuWiki
+
+All documentation for the **npd plugin** can be found on the
+[npd plugin page on dokuwiki.org](http://www.dokuwiki.org/plugin:new_page_dialog)
+
+If you install this plugin manually, make sure it is installed in
+`lib/plugins/npd/` - if the folder is called different it
+will not work!
+
+Please refer to [the plugins page on dokuwiki.org](http://www.dokuwiki.org/plugins) for additional info
+on how to install plugins in DokuWiki.

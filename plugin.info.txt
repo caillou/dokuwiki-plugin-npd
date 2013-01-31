@@ -1,0 +1,7 @@
+base   npd
+author Pierre Spring
+email  pierre.spring@liip.ch
+date   2008-01-10
+name   New Page Dialog
+desc   This Dialog is supposed to help people creating new pages.
+url    http://www.dokuwiki.org/plugin:new_page_dialog
