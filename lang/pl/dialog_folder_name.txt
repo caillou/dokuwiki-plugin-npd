@@ -1,3 +1,0 @@
-Podaj nazwę katalogu.\\
-Katalog **NIE** zostanie utworzony dopóki strona\\
-znajdująca się w nim nie zostanie **ZAPISANA**.

@@ -1,3 +1,0 @@
-Før inn navnet på mappa.\\
-Merk at mappe **IKKE** opprettes før det\\
-**LAGRES** en side i vedkommende mappe.

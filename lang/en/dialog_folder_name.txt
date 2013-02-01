@@ -1,3 +1,0 @@
-Please enter the folder Name.\\
-Note that a folder will **NOT** be created before a page\\
-within the folder is **SAVED**.

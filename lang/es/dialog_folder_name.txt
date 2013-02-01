@@ -1,3 +1,0 @@
-Por favor, introduzca el nombre de la carpeta.\\
-Atención: **NO** se creará una carpeta hasta que se **GUARDE**\\
-una página dentro de esa carpeta

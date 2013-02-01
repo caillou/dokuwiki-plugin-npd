@@ -1,3 +1,0 @@
-Prego inserire il mome della cartella.\\
-Nota: La cartella viene creata solamente quando contiene\\
-ALMENO UNA pagina.
