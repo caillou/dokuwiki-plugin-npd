@@ -1,0 +1,10 @@
+#aep_ovrl {
+    position: absolute;
+    filter:alpha(opacity=70);
+    top: expression(eval(document.body.scrollTop));
+    width: expression(eval(document.body.clientWidth));
+}
+#aep_ww {
+    position: absolute;
+    top: expression(eval(document.body.scrollTop));
+}

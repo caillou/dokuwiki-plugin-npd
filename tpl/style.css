@@ -1,0 +1,129 @@
+#aep_ovrl {
+    background-color: black;
+    -moz-opacity: 0.7; opacity: 0.7;
+    top: 0; left: 0; position: fixed;
+    width: 100%; height:100%; z-index: 99;
+}
+#aep_ww { position: fixed; z-index: 100; top: 0; left: 0; width: 100%; height: 100%; text-align: center;}
+#aep_win { margin: 20% auto 0 auto; width: 400px; text-align: left;}
+#aep_w {background-color: white; padding: 3px; border: 1px solid black; background-color: #EEE;}
+#aep_t {color: white; margin: 0 0 2px 3px; font-family: Arial, sans-serif; font-size: 10pt;}
+#aep_text {width:  98%;}
+#aep_w span {font-family: Arial, sans-serif; font-size: 10pt;}
+#aep_w div {text-align: right; margin-top: 5px;}
+div.npd div.page {
+    width: 100%;
+    height: 300px;
+    overflow: auto;
+    border: solid 1px #aaa;
+    background-color: #fff;
+}
+div.npd form {
+    margin-top: 10px;
+}
+div.npd input[type=text] {
+    width: 250px;
+}
+div.npd input.text {
+    margin-bottom: 10px;
+    margin-right: 10px;
+    display: block;
+    float: left;
+}
+div.npd input.button {
+    margin-bottom: 10px;
+    display: block;
+    clear: right;
+    float: right;
+}
+div.npd input.default {
+    color: #666;
+}
+div.npd {
+    padding: 10px 15px 10px 15px;
+}
+
+body.npd {
+    height: 100%;
+    background-color: #eee;
+}
+
+div.npd .li {
+    color: __text__;
+    font-weight: normal;
+    cursor: pointer;
+}
+div.npd a.wikilink1 {
+    background-image: url(images/page.gif);
+    background-repeat: no-repeat;
+    padding: 0px 0px 0px 20px;
+    background-position: 2px 0px;
+}
+div.npd li.level1 {
+    margin: 0px 0px 0px 2px;
+}
+div.npd li.open a.idx_dir,
+div.npd li#new a.idx_dir,
+div.npd li.closed a.idx_dir {
+    background-repeat: no-repeat;
+    padding: 2px 0px 0px 20px;
+}
+div.npd li.open a.idx_dir {
+    background-image: url(images/folderopen.gif);
+}
+div.npd li#new a.idx_dir {
+    background-image: url(images/folderopen_warning.gif) !important;
+}
+div.npd li.closed a.idx_dir {
+    background-image: url(images/folder.gif);
+}
+div.npd li#new,
+div.npd li.closed,
+div.npd li.open {
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    padding: 0px 0px 0px 16px;
+    list-style-type: none;
+}
+div.npd li#new,
+div.npd li.open {
+    background-image: url(images/placeholder.gif);
+}
+div.npd li.closed {
+    background-image: url(images/plus.gif);
+}
+
+/* unordered lists */
+div.npd ul {
+    line-height: 1.5em;
+    list-style-type: none;
+    color: __text_alt__;
+}
+
+div.npd a:link,
+div.npd a:visited {
+    color: __extern__;
+    text-decoration: none;
+}
+div.npd a:hover,
+div.npd a:active {
+    color: __text__;
+    text-decoration: underline;
+}
+div.npd a.active {
+    color: #000;
+}
+div.npd a.edit {
+    margin-left: 5px;
+    font-size: 80%;
+    color: #aaa;
+}
+div.npd div.base div.base a.idx_dir {
+    background-image: url(images/base.gif);
+    background-repeat: no-repeat;
+    background-position: 2px 0px;
+    padding: 2px 0px 0px 20px;
+}
+div.base {
+    padding-top: 2px;
+}
