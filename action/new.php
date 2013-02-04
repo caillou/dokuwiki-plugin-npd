@@ -36,4 +36,3 @@ class action_plugin_npd_new extends DokuWiki_Action_Plugin {
         $conf['template'] = "../plugins/npd/tpl";
     }
 }
-
