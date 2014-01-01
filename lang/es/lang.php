@@ -1,9 +1,9 @@
 <?php
 /**
- * Spanish language file for the "New Page Dialog" plugin
+ * spanish language file for the "New Page Dialog" plugin
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     Digna González <digna.gonzalezotero[at]gmail[dot]com
+ * @author     Digna González <digna.gonzalezotero[curly thing]gmail[fullStop]com>
  */
  
 /* buttons */

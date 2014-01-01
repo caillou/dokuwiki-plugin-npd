@@ -3,7 +3,8 @@
  * french language file for the "New Page Dialog" plugin
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     Nicolas SOTRON <nicolas.s [AT] simpliciweb [DOT] net> */
+ * @author     Nicolas SOTRON <nicolas.s[curly thing]simpliciweb[fullStop]net>
+ */
 
 /* buttons */
 $lang['btn_create_new_page'] = 'Créer une nouvelle page';

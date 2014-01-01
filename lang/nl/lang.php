@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = 'Geef de naam van de nieuwe map op:';
  
 /* misc */
 $lang['msc_page_title'] = 'Pagina Titel';
+
+//Setup VIM: ex: et ts=4 :

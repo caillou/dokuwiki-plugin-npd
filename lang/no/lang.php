@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = 'Før inn nytt mappenavn:';
  
 /* misc */
 $lang['msc_page_title'] = 'Sidetittel';
+
+//Setup VIM: ex: et ts=4 :
