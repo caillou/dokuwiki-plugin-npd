@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = 'Inserisci nome nuova cartella:';
  
 /* misc */
 $lang['msc_page_title'] = 'Titolo Pagina';
+
+//Setup VIM: ex: et ts=4 :

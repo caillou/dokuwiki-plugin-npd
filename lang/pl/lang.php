@@ -1,6 +1,6 @@
 <?php
 /**
- * Polish language file for the "New Page Dialog" plugin
+ * polish language file for the "New Page Dialog" plugin
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  * @author     Łukasz Czerski
@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = 'Podaj nazwę katalogu:';
  
 /* misc */
 $lang['msc_page_title'] = 'Tytuł strony';
+
+//Setup VIM: ex: et ts=4 :

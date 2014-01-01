@@ -1,9 +1,9 @@
 <?php
 /**
- * Slovenian language file for the "New Page Dialog" plugin
+ * slovenian language file for the "New Page Dialog" plugin
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     paxman <paxmanpwnz [AT] gmail [DOT] com>
+ * @author     paxman <paxmanpwnz[curly thing]gmail[fullStop]com>
  */
  
  
@@ -19,3 +19,5 @@ $lang['dlg_new_folder'] = 'Vnesite ime nove mape:';
  
 /* misc */
 $lang['msc_page_title'] = 'Naslov strani';
+
+//Setup VIM: ex: et ts=4 :

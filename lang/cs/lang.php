@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = 'Zadejte název nové složky:';
  
 /* misc */
 $lang['msc_page_title'] = 'Název stránky';
+
+//Setup VIM: ex: et ts=4 :

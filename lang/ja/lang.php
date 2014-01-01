@@ -1,9 +1,9 @@
 <?php
 /**
- * Japanese language file for the "New Page Dialog" plugin
+ * japanese language file for the "New Page Dialog" plugin
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     smeghead <smeghead[at]users.sourceforge.jp>
+ * @author     smeghead <smeghead[curly thing]users[dot]sourceforge[fullStop]jp>
  */
  
 /* buttons */
@@ -18,3 +18,5 @@ $lang['dlg_new_folder'] = '新しいフォルダ名を入力してください�
  
 /* misc */
 $lang['msc_page_title'] = 'ページタイトル';
+
+//Setup VIM: ex: et ts=4 :

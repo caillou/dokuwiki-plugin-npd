@@ -1,3 +1,3 @@
 Geef de naam van de map.\\
 NB!: Denk eraan dat een map **NIET** aangemaakt wordt voordat de pagina\\
-binnenin die map is **OPGESLAGEN**.\\
+binnenin die map is **OPGESLAGEN**.
