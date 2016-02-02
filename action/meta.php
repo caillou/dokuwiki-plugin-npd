@@ -16,7 +16,7 @@ class action_plugin_npd_meta extends DokuWiki_Action_Plugin {
         return confToHash(dirname(__FILE__).'../plugin.info.txt');
     }
 
-    function register(&$controller)
+    function register(Doku_Event_Handler $controller)
     {
         $controller->register_hook('TPL_METAHEADER_OUTPUT', 'BEFORE', $this, 'meta');
     }
